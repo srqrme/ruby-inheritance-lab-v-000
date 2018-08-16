@@ -30,3 +30,5 @@ shar.learn(some_knowledge)
 shar.learn(some_more_knowledge)
 
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
+
+puts "Sharmaine just learned this imporant knowledge: '#{shar.knowledge.first}' from Avi"
